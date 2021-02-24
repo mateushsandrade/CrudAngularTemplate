@@ -1,0 +1,319 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 2.5
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Celular",
+      "price": "50000.890000"
+    },
+    {
+      "name": "Model-S (Tesla) ",
+      "price": "4586.95",
+      "id": 5
+    },
+    {
+      "name": "Model-X (Tesla) ",
+      "price": 558623,
+      "id": 7
+    },
+    {
+      "name": "Model-Y (Tesla) ",
+      "price": 12256.45,
+      "id": 8
+    },
+    {
+      "name": "Model-K (Tesla) ",
+      "price": 1895202.02,
+      "id": 9
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 12
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 13
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 14
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 15
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 16
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 17
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 18
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 19
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 20
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 21
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 22
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 23
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 24
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 25
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 26
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 27
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 28
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 29
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 30
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 31
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 32
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 33
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 34
+    },
+    {
+      "name": "geladeira2",
+      "price": "1992.15",
+      "id": 35
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 36
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 37
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 38
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 39
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 40
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 41
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 42
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 43
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 44
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 45
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 46
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 47
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 48
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 49
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 50
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 51
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 52
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 53
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 54
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 55
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 56
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 57
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 58
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 59
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 60
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 61
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 62
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 63
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 65
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 66
+    },
+    {
+      "name": "Tevelisão",
+      "price": "1992.15",
+      "id": 67
+    },
+    {
+      "name": "sofa",
+      "price": 100.14,
+      "id": 68
+    }
+  ]
+}

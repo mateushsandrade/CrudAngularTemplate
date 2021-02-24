@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.red {
+    color: rgb(233, 40, 60);
+}
+
+.v-middle {
+    vertical-align: middle;
+}
+mat-sidenav-content{
+    overflow: hidden  !important;
+}
+.msg-success{
+    background-color: rgb(8, 194, 88);
+    color: #FFF;
+}
+.msg-error{
+    background-color: rgb(179, 12, 12);
+    color: rgb(0, 0, 0);
+}

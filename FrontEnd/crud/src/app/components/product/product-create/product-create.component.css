@@ -1,0 +1,15 @@
+
+form{
+    display: flex;
+    flex-direction: column;    
+}
+button{
+    margin: 15px;
+    margin-top: 20px;
+}
+input{
+    text-align: left  !important;
+}
+mat-form-field{
+    width: 20rem;
+}
